@@ -12,6 +12,7 @@ A simple Python program that generates a random school timetable and saves it to
 python timetable.py
 ```
 ## Example Output
+```text
 ==============================
    SCHOOL TIMETABLE
 ==============================
@@ -22,5 +23,6 @@ Thursday    : Biology
 Friday      : Chemistry
 Saturday    : Computer Science
 
+```
 ## Author
        -VIJITHA M D
