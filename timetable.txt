@@ -1,0 +1,8 @@
+SCHOOL TIMETABLE
+==============================
+Monday      : Computer Science
+Tuesday     : Physics
+Wednesday   : English
+Thursday    : Math
+Friday      : Chemistry
+Saturday    : Biology
